@@ -1,5 +1,5 @@
 # password-less-ssh
-# Ansible Playbook to enable passwordless ssh login between Ansible control machine and nodes
+# Ansible Playbook to enable passwordless ssh login between control machine and nodes
 
 Using this playbook we can enable passwordless ssh login between ansible control machine and nodes. Using this single playbook we can enable this password login to N number of nodes simultaneously.
 
