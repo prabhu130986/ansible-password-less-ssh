@@ -1,8 +1,8 @@
 ---
 id_rsa_file: "/root/.ssh/id_rsa"
 passphrase: "changeit"
-root_password: "Pa55w0rd@123"
+root_password: "password"
 nodes:
-  - 13.76.134.245
-  - 168.63.244.210
-  - 137.116.134.77
+  - 1.2.3.4
+  - 5.6.7.8
+  - 9.10.11.12
